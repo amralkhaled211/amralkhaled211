@@ -139,7 +139,3 @@ A progression of modules building strong C++ / OOP fundamentals.
 <div align="center"><i>Currently deep in databases, networking, and applied mathematics — always shipping something on the side.</i></div>
 
 
-## Example Output
-<div align='center'>
-  <img src='out/fetch.png' alt='Github Fetch'>
-</div>
