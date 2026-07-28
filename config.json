@@ -3,8 +3,6 @@
         "username",
         "bio",
         "location",
-        "email",
-        "hireable",
         "followers",
         "following",
         "public_repos",
