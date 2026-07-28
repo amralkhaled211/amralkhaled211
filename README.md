@@ -4,7 +4,7 @@ About me
 ⚙️ Two years at 42 Vienna, a peer-to-peer coding school with no teachers — heavy on low-level, from-scratch systems programming
 🔭 Currently building ArcadeHub, a full-stack web app with a Python backend and SQL database
 🌱 Comfortable moving between low-level C/C++ and higher-level Python
-📫 Reach me via GitHub
+📫 Reach me via Email: amralkhaled221@gmail.com
 Pinned projects
 Project	What it is	Stack
 ArcadeHub	Full-stack web app — Python backend, SQL database	Python
