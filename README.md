@@ -21,8 +21,3 @@ GitHub stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amralkhaled211&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amralkhaled211&layout=compact&hide_border=true" alt="Top languages" height="165"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=amralkhaled211&hide_border=true" alt="GitHub streak"/> </p>
 <p align="center"><i>Currently deep in databases, networking, and applied mathematics coursework — always shipping something on the side.</i></p>
 
-
-## Example Output
-<div align='center'>
-  <img src='out/fetch.png' alt='Github Fetch'>
-</div>
