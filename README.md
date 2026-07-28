@@ -1,5 +1,13 @@
 <div align="center">
 
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/amralkhaled211/amralkhaled211/main/out/fetch.png" alt="neofetch-style GitHub stats" width="650"/>
+</div>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Amr%20Alkhaled&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Systems%20%26%20Backend&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/amralkhaled211">
@@ -24,19 +32,10 @@ role: Computer Science Student
 based_in: Vienna, Austria
 studying_at: IMC Krems — databases, networking, applied mathematics, programming
 trained_at: 42 Vienna — two years, peer-to-peer, no teachers
-currently_building: ArcadeHub (Python backend + SQL database)
 strengths: [low-level systems programming, backend development, problem solving]
 ```
 
-<br/>
 
-## 🖥️ Neofetch
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/amralkhaled211/amralkhaled211/main/out/fetch.png" alt="neofetch-style GitHub stats" width="650"/>
-</div>
-
-<br/>
 
 ## 🚀 Featured Projects
 
