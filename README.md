@@ -137,3 +137,9 @@ A progression of modules building strong C++ / OOP fundamentals.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
 
 <div align="center"><i>Currently deep in databases, networking, and applied mathematics — always shipping something on the side.</i></div>
+
+
+## Example Output
+<div align='center'>
+  <img src='out/fetch.png' alt='Github Fetch'>
+</div>
